@@ -1,0 +1,7 @@
+{
+  "name": "Smart Marketing Plan",
+  "description": "A comprehensive AI-powered marketing plan dashboard with a Gemini Live voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
